@@ -32,7 +32,39 @@
 
 ---
 [![](https://visitcount.itsvg.in/api?id=thanhzkx&icon=0&color=0)](https://visitcount.itsvg.in)
-<a href="https://github.com/thanhzkx/CONTROL-FISHTANK">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=thanhzkx&repo=CONTROL-FISHTANK&theme=radical" />
-</a>
+## 📂 Featured Projects
+
+<p align="center">
+  <a href="https://github.com/thanhzkx/RFIDShield">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=thanhzkx&repo=RFIDShield&theme=radical" />
+  </a>
+  <a href="https://github.com/thanhzkx/casio-by-RASP">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=thanhzkx&repo=casio-by-RASP&theme=tokyonight" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/thanhzkx/CONTROL-FISHTANK">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=thanhzkx&repo=CONTROL-FISHTANK&theme=merko" />
+  </a>
+  <a href="https://github.com/thanhzkx/BLE-MESH-WITH-IDF">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=thanhzkx&repo=BLE-MESH-WITH-IDF&theme=gruvbox" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/thanhzkx/VXL">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=thanhzkx&repo=VXL&theme=dark" />
+  </a>
+  <a href="https://github.com/thanhzkx/thanhzkx">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=thanhzkx&repo=thanhzkx&theme=dracula" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/thanhzkx/Deprison">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=thanhzkx&repo=Deprison&theme=highcontrast" />
+  </a>
+</p>
+📫 Contact: **nguyenminhthanh.offfice@gmail.com**
 
