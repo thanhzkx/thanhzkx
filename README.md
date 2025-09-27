@@ -53,8 +53,8 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/thanhzkx/VXL">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=thanhzkx&repo=VXL&theme=dark" />
+  <a href="https://github.com/thanhzkx/Zigbee-Gateway-Prototype">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=thanhzkx&repo=VXL&theme=dark&show_owner=true" />
   </a>
   <a href="https://github.com/thanhzkx/thanhzkx">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=thanhzkx&repo=thanhzkx&theme=dracula" />
