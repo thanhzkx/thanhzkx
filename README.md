@@ -38,6 +38,8 @@
   <a href="https://github.com/thanhzkx/RFIDShield">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=thanhzkx&repo=RFIDShield&theme=radical" />
   </a>
+</p>
+
   <a href="https://github.com/thanhzkx/casio-by-RASP">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=thanhzkx&repo=casio-by-RASP&theme=tokyonight" />
   </a>
