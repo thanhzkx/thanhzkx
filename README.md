@@ -39,7 +39,7 @@
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=thanhzkx&repo=RFIDShield&theme=radical&show_owner=true" />
   </a>
   <a href="https://github.com/thanhzkx/casio-by-RASP">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=thanhzkx&repo=casio-by-RASP&theme=tokyonight" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=thanhzkx&repo=casio-by-RASP&theme=tokyonight&show_owner=true" />
   </a>
 </p>
 
