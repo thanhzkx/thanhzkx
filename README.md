@@ -36,7 +36,7 @@
 
 <p align="center">
   <a href="https://github.com/thanhzkx/RFIDShield">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=thanhzkx&repo=RFIDShield&theme=radical" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=thanhzkx&repo=RFIDShield&theme=radical&show_owner=true" />
   </a>
   <a href="https://github.com/thanhzkx/casio-by-RASP">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=thanhzkx&repo=casio-by-RASP&theme=tokyonight" />
