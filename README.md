@@ -1,5 +1,5 @@
 # 💫About Me :
-# 👋 Hi, I'm Nguyễn Minh Thành  
+# 👋 Hi, I'm Nguyễn Minh Thành (thanhzkx)
 
 🎓 4th-year Electronics and Telecommunications student at HCMUT  
 💡 Passionate about Embedded Systems, IoT, and RF Design  
