@@ -56,14 +56,14 @@
   <a href="https://github.com/thanhzkx/Zigbee-Gateway-Prototype">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=thanhzkx&repo=Zigbee-Gateway-Prototype&theme=dark&show_owner=true" />
   </a>
-  <a href="https://github.com/thanhzkx/RF Power Amplifier Design">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=thanhzkx&repo=RF Power Amplifier Design&theme=dracula&show_owner=true" />
+  <a href="https://github.com/thanhzkx/RF-Power-Amplifier-Design">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=thanhzkx&repo=RF-Power-Amplifier-Design&theme=dracula&show_owner=true" />
   </a>
 </p>
 
 <p align="center">
-  <a href="https://github.com/thanhzkx/Frequency Response Circuit Simulation">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=thanhzkx&repo=Frequency Response Circuit Simulation&theme=highcontrast&show_owner=true" />
+  <a href="https://github.com/thanhzkx/Frequency-Response-Circuit-Simulation">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=thanhzkx&repo=Frequency-Response-Circuit-Simulation&theme=highcontrast&show_owner=true" />
   </a>
 </p>
 📫 Contact: **nguyenminhthanh.office@gmail.com**
