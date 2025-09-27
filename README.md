@@ -45,7 +45,7 @@
 
 <p align="center">
   <a href="https://github.com/thanhzkx/CONTROL-FISHTANK">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=thanhzkx&repo=CONTROL-FISHTANK&theme=merko" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=thanhzkx&repo=CONTROL-FISHTANK&theme=merko&show_owner=true" />
   </a>
   <a href="https://github.com/thanhzkx/BLE-MESH-WITH-IDF">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=thanhzkx&repo=BLE-MESH-WITH-IDF&theme=gruvbox" />
