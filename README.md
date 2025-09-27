@@ -48,7 +48,7 @@
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=thanhzkx&repo=CONTROL-FISHTANK&theme=merko&show_owner=true" />
   </a>
   <a href="https://github.com/thanhzkx/BLE-MESH-WITH-IDF">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=thanhzkx&repo=BLE-MESH-WITH-IDF&theme=gruvbox&show_owner=true" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=thanhzkx&repo=BLE-MESH-WITH-IDF&theme=gruvbox" />
   </a>
 </p>
 
